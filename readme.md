@@ -2,7 +2,7 @@
 
 
 
-Este projeto é um *CRUD* para bicicletas.  Que visa realizar um cadastro de um bicicleta informando os seguintes dados: **_marca_**, **_ano de fabricação_** e a **_cor_** da bicicleta. Estas informações são persistidos em um bando de dados não relacional **mongoDB** sendo executado por um **Container** no **Docker**.
+Este projeto é um *CRUD* para bicicletas que visa realizar um cadastro de um bicicleta informando os seguintes dados: **_marca_**, **_ano de fabricação_** e a **_cor_** da bicicleta. Estas informações são persistidos em um bando de dados não relacional **mongoDB** sendo executado por um **Container** no **Docker**.
 
 >  **_NOTE:_** É necessário ter o Docker instalado.
 
