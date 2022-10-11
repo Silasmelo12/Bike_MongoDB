@@ -59,7 +59,7 @@ Afim consumir esta API, utilizei o **Postman**.
 
    A imagem a seguir ilustra bem o exemplo
 
-​	![This is an image](imagens/Captura de tela 2022-10-10 231755.png)
+   ![This is an image](https://github.com/Silasmelo12/bikeMongoDB/blob/master/imagens/Captura%20de%20tela%202022-10-10%20231755.png)
 
 
 
