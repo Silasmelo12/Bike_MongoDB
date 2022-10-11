@@ -2,7 +2,7 @@
 
 passos
 
-para baixar a imagem do mongodb par ao docker basta executar o código: docker pull tutum/mongodb
+para baixar a imagem do mongodb para o docker basta executar o código: docker pull tutum/mongodb
 
 para criar um container com a imagem do mongodb sem usuario e senha com o nome "bikes": docker run -d -p 27017:27017 -p 28017:28017 -e AUTH=no --name bikes tutum/mongodb
 
