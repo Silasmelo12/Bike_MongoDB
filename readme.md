@@ -15,10 +15,12 @@ a configuração no yml é:
 spring:
   data:
 
+```
 mongodb:
   authentication-database: admin
   database: bikes
   port: 27017
   host: localhost
+```
 
 e as depencências necessárias estão no arquivo pom.xml e o maven e spring boot toma conta do resto.
